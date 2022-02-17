@@ -884,7 +884,7 @@ test = ["pytest", "pathlib2"]
 
 [[package]]
 name = "texas-holdem"
-version = "0.1.0"
+version = "0.2.1"
 description = ""
 category = "main"
 optional = false
@@ -895,7 +895,7 @@ develop = false
 type = "git"
 url = "https://github.com/yuta3003/texas_holdem.git"
 reference = "main"
-resolved_reference = "ecda287facab2095fe6e81c2ae2f56af15473b12"
+resolved_reference = "fcce28bebd1dd1d72113cce0a81eff5482637bb7"
 
 [[package]]
 name = "tomli"
