@@ -9,6 +9,7 @@ python = "^3.9"
 numpy = "^1.22.2"
 jupyter = "^1.0.0"
 texas-holdem = {git = "https://github.com/yuta3003/texas_holdem.git", rev = "main"}
+matplotlib = "^3.5.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
